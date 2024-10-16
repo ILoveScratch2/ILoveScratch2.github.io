@@ -21,7 +21,7 @@ repository               : "ILoveScratch2/ilovescratch2.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://avatars.githubusercontent.com/u/161606492?v=4"
   name             : "I Love Scratch"
   pronouns         : "he/him"  
   bio              : "Welcome to my page."
