@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my personal page! My name is ILS and I currently reside in China. I love exploring new things and pursuing knowledge and would like to share my experiences and insights with as many people as possible through this platform.
+Welcome to my personal page! My name is WenDao and I currently reside in China. I love exploring new things and pursuing knowledge and would like to share my experiences and insights with as many people as possible through this platform.
 
 ## Hobbies
 I have many interests, among which reading is an integral part of my life. I love books of all genres, from classic literature to modern scientific and technological works that pique my interest. Books open a window to different worlds, enrich my horizons and inspire my thinking.
