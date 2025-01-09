@@ -7,6 +7,9 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BT9PWL7WCD"></script>
 <script>
@@ -16,10 +19,6 @@ layout: compress
 
   gtag('config', 'G-BT9PWL7WCD');
 </script>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
   <body>
 
     {% include browser-upgrade.html %}
