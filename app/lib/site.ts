@@ -27,12 +27,12 @@ export const siteLinks: SiteLink[] = [
   {
     key: "siteBlog",
     descriptionKey: "siteBlogDesc",
-    href: "https://blog.ilovescratch.dpdns.org",
+    href: "https://blog.ilovescratch.us.ci/",
   },
   {
     key: "siteProjects",
     descriptionKey: "siteProjectsDesc",
-    href: "https://projects.ilovescratch.dpdns.org",
+    href: "https://github.com/ILoveScratch2?tab=repositories&q=&type=&language=&sort=stargazers",
   },
 ];
 
